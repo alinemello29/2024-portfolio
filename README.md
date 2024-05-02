@@ -1,23 +1,7 @@
-<<<<<<< HEAD
-## Instruções sobre o projeto
+![Screenshot 2024-05-02 16 03 49](https://github.com/alinemello29/2024-portfolio/assets/109696840/df8e505d-9ed7-4dee-adc1-473853f5f394)
 
-Cada aula foi detalhada em arquivos .md (markdown) com um passo a passo do que fizemos em cada vídeo aula. Clique na aula para ver o conteúdo:
+![Screenshot 2024-05-02 16 03 43](https://github.com/alinemello29/2024-portfolio/assets/109696840/97c3eaa0-5154-4abc-8e14-85206e8442bd)
 
-1. [Aula 01 Criar projeto React JS com o Vite, Estrutura do projeto](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula01.md)
-2. [Aula 02 Organizar projeto, criar página Home e componentes](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula02.md)
-3. [Aula 03 Criar Rotas, Páginas e Links no React JS](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula03.md)
-4. [Aula 04 Criar componente Container e Página 404](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula04.md)
-5. [Aula 05 Ícones no React Js e Página Contatos](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula05.md)
-6. [Aula 06 Rotas aninhadas no React JS com o react router dom](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula06.md)
-7. [Aula 07 Página Sobre](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula07.md)
-8. [Aula 08 Componente Card de Projetos](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula08.md)
-9. [Aula 09 Consumir API do Github + Página Projetos](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula09.md)
-10. [Aula 10 Deploy na Vercel + Ajuste no Projeto](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula10.md)
-11. [Extra 01 Responsividade](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/e01.md)
-12. [Extra 02 Responsividade](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/e02.md)
-13. [Extra 03 Menu Sandwich](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/e03.md)
+![Screenshot 2024-05-02 16 03 36](https://github.com/alinemello29/2024-portfolio/assets/109696840/003067a8-c198-446e-95eb-bc19368dd543)
 
-Salve Devs, até a próxima!
-=======
-# 2024-portfolio
->>>>>>> e4931db6ee1f458c8dc726cc0a991abfc2675ed8
+![Screenshot 2024-05-02 16 03 30](https://github.com/alinemello29/2024-portfolio/assets/109696840/e5d66de9-cbe9-4d17-9209-46f980956358)
