@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Instruções sobre o projeto
 
 Cada aula foi detalhada em arquivos .md (markdown) com um passo a passo do que fizemos em cada vídeo aula. Clique na aula para ver o conteúdo:
@@ -17,3 +18,6 @@ Cada aula foi detalhada em arquivos .md (markdown) com um passo a passo do que f
 13. [Extra 03 Menu Sandwich](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/e03.md)
 
 Salve Devs, até a próxima!
+=======
+# 2024-portfolio
+>>>>>>> e4931db6ee1f458c8dc726cc0a991abfc2675ed8
